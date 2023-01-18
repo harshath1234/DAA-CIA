@@ -1,3 +1,4 @@
+[CIA OUTPUT.docx](https://github.com/harshath1234/DAA-CIA/files/10442576/CIA.OUTPUT.docx)
 # DAA-CIAPRIMS ALGORTIHM
 
 PRIMS ALGORITHM 
